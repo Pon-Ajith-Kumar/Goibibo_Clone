@@ -2,7 +2,7 @@
   "name": "react_clone_zoibibo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pon-Ajith-Kumar.github.io/goibibo-clone",
+  "homepage": "https://Pon-Ajith-Kumar.github.io/Goibibo-Clone",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -25,6 +25,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
